@@ -1,0 +1,14 @@
+{
+  "name": "pitaya-protocol",
+  "description": "pitaya-protocol",
+  "keywords": [
+    "pitaya",
+    "protocol"
+  ],
+  "version": "0.1.3",
+  "main":"lib/protocol.js",
+  "scripts": [
+    "lib/protocol.js"
+  ],
+  "repo": "https://github.com/NetEase/pitaya-protocol"
+}
